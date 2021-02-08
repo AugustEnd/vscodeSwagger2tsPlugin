@@ -48,8 +48,6 @@ export const testCreateFile = async () => {
             outputPath: rootPath,
         }).build();
         const msg = await ignoreFile(rootPath);
-        console.log("over");
-        // vscode.window.showInformationMessage(typeof a);
         vscode.window.showInformationMessage(msg, "转换已完成");
     } else {
         vscode.window.showErrorMessage("必须打开文件夹才能使用");

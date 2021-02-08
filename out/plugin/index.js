@@ -43,8 +43,6 @@ const testCreateFile = () => __awaiter(void 0, void 0, void 0, function* () {
             outputPath: rootPath,
         }).build();
         const msg = yield handleIgnore_1.ignoreFile(rootPath);
-        console.log("over");
-        // vscode.window.showInformationMessage(typeof a);
         vscode.window.showInformationMessage(msg, "转换已完成");
     }
     else {
