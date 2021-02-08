@@ -2,10 +2,11 @@
     "name": "vscode-swagger2ts-plugin",
     "displayName": "vscode-swagger2ts-plugin",
     "description": "这是一个swagger接口出参转ts的插件",
-    "version": "0.0.16",
+    "version": "0.0.17",
     "license": "IMT",
     "publisher": "gaofengye",
     "repository": "https://github.com/AugustEnd/vscodeSwagger2tsPlugin",
+    "icon": "media/issue-color.png",
     "engines": {
         "vscode": "^1.53.0"
     },
