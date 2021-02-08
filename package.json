@@ -2,7 +2,7 @@
     "name": "vscode-swagger2ts-plugin",
     "displayName": "vscode-swagger2ts-plugin",
     "description": "这是一个swagger接口出参转ts的插件",
-    "version": "0.0.13",
+    "version": "0.0.14",
     "license": "IMT",
     "publisher": "gaofengye",
     "repository": "https://github.com/Microsoft/vscode-extension-samples/helloworld-sample",

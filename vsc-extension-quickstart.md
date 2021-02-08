@@ -37,7 +37,7 @@ vscode 插件中搜索 vscode-swagger2ts-plugin安装
 
 注意右下角提示。
 
-如果你不想使用vscode插件，你只想在某个项目中使用 [webpack插件](https://github.com/AugustEnd/swagger-ts-plugin)
+如果你不想使用vscode插件，你只想在某个项目中使用 [webpack插件](https://github.com/AugustEnd/swagger-ts-plugin) [vscode插件](https://github.com/AugustEnd/vscodeSwagger2tsPlugin)
 
 ### 联系我
 有一些好的想法，或者比较好联系我。1543259203@qq.com
@@ -113,7 +113,7 @@ export interface AnswerDTO {
 
 ---
 
-如果觉得对你开发效率有所提升的话，给个[Star](https://github.com/AugustEnd/swagger-ts-plugin)⭐️ 鼓励一下吧~
+如果觉得对你开发效率有所提升的话，给个[Star](https://github.com/AugustEnd/vscodeSwagger2tsPlugin)⭐️ 鼓励一下吧~
 
 ```ts
 /*
