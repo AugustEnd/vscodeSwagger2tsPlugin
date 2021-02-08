@@ -1,5 +1,5 @@
 ***
-<a href="https://github.com/AugustEnd/swagger-ts-plugin" target="\_parent"><img src="https://img.shields.io/github/stars/AugustEnd/swagger-ts-plugin.svg?style=social&label=Star"/></a>
+<a href="https://github.com/AugustEnd/vscodeSwagger2tsPlugin" target="\_parent"><img src="https://img.shields.io/github/stars/AugustEnd/vscodeSwagger2tsPlugin.svg?style=social&label=Star"/></a>
 
 ### Usage
 
